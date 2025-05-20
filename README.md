@@ -45,7 +45,7 @@ A PHP Laravel application that simulates a Pokémon database management system, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/PokedexPHP.git
+   git clone https://github.com/aitortd/PokedexPHP.git
    cd PokedexPHP
    ```
 
