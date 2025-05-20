@@ -35,11 +35,12 @@ A PHP Laravel application that simulates a Pokémon database management system, 
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 7.4 or higher (PHP 8.2 recommended)
 - Composer
 - MySQL database
 - Laravel 8.x
 - Web server (Apache/Nginx)
+- Mailhog (so you can check confirmation emails when you create an account)
 
 ## Installation
 
